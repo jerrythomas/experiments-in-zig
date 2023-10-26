@@ -1,0 +1,7 @@
+zig-cache
+zig-out
+log.txt
+*.log
+*.code-workspace
+.DS_Store
+reference
